@@ -3,7 +3,7 @@
 **Offline Windows Toolkit for building and experimenting with local LLMs**
 
 Josmitty ist ein lokales, GUI-basiertes Windows-Tool zum **Finetunen, Mergen und Verwalten von Large Language Models** – komplett **offline**, ohne Cloud, ohne Abo.
-<img width="1320" height="655" alt="Screenshot 2026-02-04 231838" src="https://github.com/user-attachments/assets/1430e0a0-b8c7-43aa-9236-969199a96c1a" />
+<img width="1912" height="979" alt="Screenshot 2026-02-04 232048" src="https://github.com/user-attachments/assets/108507cc-f276-4efc-a973-a2216637c73f" />
 
 ---
 
@@ -18,6 +18,7 @@ Josmitty ist ein lokales, GUI-basiertes Windows-Tool zum **Finetunen, Mergen und
 - 🐣 **Baby-LLM Support** (einsteigerfreundlich)
 - 📦 **Gebündelte Runtime** – kein manuelles Python-Setup nötig
 - 🪟 **Windows-first** (10 / 11)
+<img width="1861" height="955" alt="Screenshot 2026-02-04 232031" src="https://github.com/user-attachments/assets/2263e8d5-87ce-4be1-af31-10e38d207fd9" />
 
 ---
 
@@ -31,6 +32,7 @@ Josmitty ist ein lokales, GUI-basiertes Windows-Tool zum **Finetunen, Mergen und
 - Cloud-User
 - One-Click-Chatbots
 - Mobile / Mac / Linux
+<img width="1901" height="988" alt="Screenshot 2026-02-04 232101" src="https://github.com/user-attachments/assets/82089f83-4135-4ef1-96b4-359bd2ff5753" />
 
 ---
 
