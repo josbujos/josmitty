@@ -65,7 +65,7 @@ Josmitty is a local, GUI-based Windows tool for **fine-tuning, merging, and mana
 - **RAM:** 16 GB recommended
 - **GPU:** optional, highly recommended for fine-tuning
 - **Disk space:**  
-  **Download size:** ~22 GB (bundled local runtime)
+  **Download size:** ~14 GB (bundled local runtime)
 
 ---
 
