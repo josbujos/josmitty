@@ -65,5 +65,7 @@ Josmitty ist ein lokales, GUI-basiertes Windows-Tool zum **Finetunen, Mergen und
 
 ---
 
-## 📁 Projektstruktur (vereinfacht)
-
+## Kaufen
+Die Vollversion und Lizenz bekommst du auf Gumroad:
+[Jetzt kaufen auf Gumroad]
+https://bucheli8.gumroad.com/l/jqpqpr
